@@ -10,9 +10,11 @@ Dataset ini disusun untuk kepentingan **penelitian Temu Kembali Informasi (Infor
 
 Dataset-Narkotika_041_040/
 │
+
 ├── 📁 Dataset
 │ └── Narkotika.zip ← Berisi 50 dokumen putusan (*.pdf)
 │
+
 ├── 📁 Overview
 │ └── Overview.xlsx ← Summary dari 50 dokumen putusan
 │
@@ -79,6 +81,7 @@ Sumber data tetap menjadi hak dari **Mahkamah Agung Republik Indonesia**.
 - **Ahmad Rifsa Danovan** – NIM: 202210370311040  
 
 Fakultas **Teknik**
+
 Program Studi **Informatika**  
 **Universitas Muhammadiyah Malang**
 2025
