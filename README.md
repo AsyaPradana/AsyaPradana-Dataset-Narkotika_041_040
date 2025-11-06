@@ -29,7 +29,7 @@ Dataset-Narkotika_041_040/
 - **Bahasa:** Bahasa Indonesia
 - **Jenis perkara:** Tindak pidana narkotika
 - **Sumber utama:** [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id/)
-- **Tahun putusan:** Beragam antara 2015–2024
+- **Tahun putusan:** Beragam antara 2023–2025
 
 ---
 
