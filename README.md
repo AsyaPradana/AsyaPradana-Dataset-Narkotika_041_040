@@ -12,13 +12,16 @@ Dataset-Narkotika_041_040/
 │
 
 ├── 📁 Dataset
-│ └── Narkotika.zip ← Berisi 50 dokumen putusan (*.pdf)
+│ 
+└── Narkotika.zip ← Berisi 50 dokumen putusan (*.pdf)
 │
 
 ├── 📁 Overview
-│ └── Overview.xlsx ← Summary dari 50 dokumen putusan
+│ 
+└── Overview.xlsx ← Summary dari 50 dokumen putusan
 │
-└── 📄 README.md ← Dokumentasi proyek
+└── 
+📄 README.md ← Dokumentasi proyek
 
 
 
@@ -80,11 +83,10 @@ Sumber data tetap menjadi hak dari **Mahkamah Agung Republik Indonesia**.
 - **Asya Cahya Pradana** – NIM: 202210370311041  
 - **Ahmad Rifsa Danovan** – NIM: 202210370311040  
 
-Fakultas **Teknik**
-
-Program Studi **Informatika**  
+**Fakultas Teknik**
+**Program Studi Informatika**  
 **Universitas Muhammadiyah Malang**
-2025
+**2025**
 
 ---
 
